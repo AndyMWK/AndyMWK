@@ -14,7 +14,7 @@ So far I tackled interesting projects ranging from Collaborative Robotics, mecha
 From my Co-Op I learned how cicular buffers are a useful data structure for embedded systems! So I wrote a library that I can download and use on Platform IO. [Link](https://github.com/AndyMWK/circular-buffer-lib-for-pio)
 
 ### Home Automation - Lighting
-I worked on a lighting home automation project where used two ESP32 Dev Boards and two servo motors to turn a room light switch on and off. [Link](https://github.com/AndyMWK/Home-Automation---Lighting)
+I worked on a lighting home automation project where used two ESP32 Dev Boards and two servo motors to turn a room light switch on and off. I am learning freeRTOS right now to implement robust and even richer functions. [Link](https://github.com/AndyMWK/Home-Automation---Lighting)
 
 ### Automated Pet Food Dispenser
 After my first year of engineering, I made a dispensing machine that automatically dispenses pet food. [Link](https://github.com/AndyMWK/Automated-Pet-Food-Dispenser)
